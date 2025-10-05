@@ -1,0 +1,14 @@
+{
+    "enable_screen_shake": true, 
+    "note_color_scheme": "default", 
+    "key_bindings": {
+        "d": 0, 
+        "f": 1, 
+        "j": 2, 
+        "k": 3
+    }, 
+    "music_volume": 1.0, 
+    "enable_particles": true, 
+    "music_track": "background_music.mp3", 
+    "sfx_volume": 1.0
+}
